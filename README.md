@@ -54,7 +54,7 @@ WHERE monthly_income <= 0
 SELECT * FROM employees;
 
 ```
-# questionnaire 
+# Questionnaire 
 1. What is the average attrition rate for each department
 2. What is the average hourly rate of male Research Scientists?
 3. How does attrition relate to monthly income?
@@ -63,7 +63,7 @@ SELECT * FROM employees;
 6. Is there a relationship between attrition and years since last promotion? i need queries these questions
 
    
-# ANSWERS
+# Answers
 1. What is the average attrition rate for each department
 ```sql
 SELECT 
